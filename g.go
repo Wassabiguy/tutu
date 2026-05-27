@@ -2,8 +2,8 @@ package main
 
 import "fmt"
 
-func ww() {
-	fmt.Println("nix G")
+func www() {
+	fmt.Println("1nix G")
 }
 func wesd() {
 	fmt.Print("sfsefse")
