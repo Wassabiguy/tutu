@@ -6,5 +6,5 @@ func www() {
 	fmt.Println("1nix G")
 }
 func wesd() {
-	fm.Print("sfsefse")
+	fmt.Print("sfsefse")
 }
