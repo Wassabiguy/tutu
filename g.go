@@ -8,3 +8,6 @@ func www() {
 func wesd() {
 	fmt.Print("sfsefse")
 }
+func wesd() {
+	fmt.Print("sfsefse")
+}
